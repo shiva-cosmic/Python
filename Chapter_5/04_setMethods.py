@@ -1,2 +1,7 @@
-s = {1,5,32,54,5,5,5, "Shivansh"} 
-print(s,type(s))
+s = {1,5,32,54,5,5,5, "Shivansh"} #No repetation is allowed
+
+s.add(566)
+print(s, type(s))
+s.remove(5)
+print(s, type(s))
+
