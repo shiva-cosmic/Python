@@ -1,5 +1,5 @@
 # Dictionary & Sets
-
+d ={} #Empty Dictionary
 marks = {
   "Shivansh":100,
   "Devansh": 85,
