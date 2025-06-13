@@ -33,7 +33,7 @@ def avg():
   print(average)
 
 
-avg()
+avg() #Function Call
 avg()
 avg()
 avg() #ab ye 4 bar hoga without extra coding just write at onces in a fucntion then call that  fucntion where you want to apply  that fucntion. this improve quaility of code and reduce the mess
